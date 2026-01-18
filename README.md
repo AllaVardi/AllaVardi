@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I’m Alla 👋
 
-<!--
-**AllaVardi/AllaVardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work at the intersection of **cybersecurity, risk analysis, and security operations**, with a strong focus on security fundamentals and responsible security practices.
 
-Here are some ideas to get you started:
+My background combines:
+- Professional experience in cybersecurity recruitment
+- Hands-on technical training and applied security projects
+- A strong emphasis on ethical, defensive, and risk-based security work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current focus
+- Security operations fundamentals
+- External attack surface analysis
+- Vulnerability assessment and CVSS-based prioritization
+- Cloud security fundamentals (AWS)
+
+### Certifications
+- CompTIA Security+
+- AWS Certified Cloud Practitioner
+- Offensive Security Web Assessor (OSWA) — in progress
+
+### Featured project
+- **External Penetration Testing Capstone (Sanitized)**  
+  👉 https://github.com/AllaVardi/external-pentest-capstone
+
+I value continuous learning, clear documentation, and translating technical findings into actionable security insights.
