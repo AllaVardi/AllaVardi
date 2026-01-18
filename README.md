@@ -12,6 +12,5 @@ My background combines professional experience in cybersecurity recruitment with
 External Penetration Testing Capstone (Sanitized)  
 👉 https://github.com/AllaVardi/external-pentest-capstone
 
-I value clear documentation, continuous learning, and translating technical findings into actionable security insights.
-
+I value clear documentation and translating technical findings into actionable security insights.
 
